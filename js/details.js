@@ -5,8 +5,6 @@ console.log(id)
 const paramsCat = new URLSearchParams()
 const descriptionContainer = document.querySelector(".description-section");
 
-console.log(document.location.search)
-
 const url = "https://gamehub.olemariusrognan.com/wp-json/wc/store/products/" + id;
 
 async function getDetails(){
@@ -40,4 +38,4 @@ function createHTML(details){
     </div>
     <div class="description-text-container">
     <p>${details.description}</p></div></div>`;
-}
+};

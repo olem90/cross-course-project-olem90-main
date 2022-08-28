@@ -273,8 +273,8 @@ h2{
     margin-inline: auto;
 }
 .deals-cta-container a{
-    text-decoration: none;
     color: #fff;
+    text-decoration: none;
 }
 .deals-cta-container{
     display: flex;
