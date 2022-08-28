@@ -1,0 +1,7 @@
+{
+  "files.autosave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "editor.formatOnSave": true,
+  "beautify.onSave": true,
+  "liveServer.settings.port": 5501
+}
