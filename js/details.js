@@ -23,7 +23,7 @@ function createHTML(details){
     let price = details.prices.price;
     const divider = 100;
     const rightPrice = price / divider;
-    
+
     descriptionContainer.innerHTML = 
     `<div class="description-section">
     <h2>${details.name}</h2>
