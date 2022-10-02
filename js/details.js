@@ -8,7 +8,6 @@ const descriptionContainer = document.querySelector(".description-section");
 const url = "https://gamehub.olemariusrognan.com/wp-json/wc/store/products/" + id;
 
 async function getDetails(){
-    
     const response = await fetch(url);
     const details = await response.json();
     
