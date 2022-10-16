@@ -1,5 +1,8 @@
 # cross-course-project-olem90
 
+
+![Gamehub-screen-cropped](https://user-images.githubusercontent.com/80859665/196045396-7e7535cf-ea25-4f3e-a595-b6d623134b09.png)
+
 ## Gamehub
 
 ## Description
